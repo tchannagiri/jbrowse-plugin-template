@@ -43,7 +43,9 @@
       "<rootDir>/cypress/"
     ]
   },
-  "dependencies": {},
+  "dependencies": {
+    "@jbrowse/plugin-svg": "^1.3.0"
+  },
   "peerDependencies": {
     "@jbrowse/core": "^1.0.4"
   },
